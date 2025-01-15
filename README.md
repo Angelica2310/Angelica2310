@@ -1,4 +1,5 @@
-### Welcome to my GitHub! 
+### Welcome to my GitHub!
+
 ## I'm a passionate developer with a love for technology and coding. I enjoy building web applications that are both functional and user-friendly. My main areas of focus include React, Next.js, and Tailwind CSS.
 
 # 🚀 Technologies I'm Exploring
