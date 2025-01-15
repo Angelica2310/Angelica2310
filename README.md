@@ -6,11 +6,11 @@
 ## I'm a passionate developer with a love for technology and coding. I enjoy building web applications that are both functional and user-friendly. My main areas of focus include React, Next.js, and Tailwind CSS.
 
 ### 🚀 Technologies I'm Exploring
-- React: I’ve gained hands-on experience in building dynamic and interactive user interfaces using React. I love how it allows for component-based architecture and makes building large applications easier and more maintainable.
+- ___React___: I’ve gained hands-on experience in building dynamic and interactive user interfaces using React. I love how it allows for component-based architecture and makes building large applications easier and more maintainable.
 
-- Next.js: I’m currently diving deeper into Next.js to build server-side rendered React applications. It's an amazing tool for improving performance and SEO.
+- ___Next.js___: I’m currently diving deeper into Next.js to build server-side rendered React applications. It's an amazing tool for improving performance and SEO.
 
-- Tailwind CSS: I’m passionate about using Tailwind CSS to create beautiful, responsive UIs with minimal effort. I enjoy how its utility-first approach allows for faster development and greater control over the design.
+- ___Tailwind CSS___: I’m passionate about using Tailwind CSS to create beautiful, responsive UIs with minimal effort. I enjoy how its utility-first approach allows for faster development and greater control over the design.
 
 ### 💡 Projects
 I’ve worked on several interesting projects, from simple landing pages to more complex full-stack applications. Here are a few highlights:
