@@ -1,5 +1,8 @@
 # Welcome to my GitHub!
 
+<img src="https://cdn.pixabay.com/photo/2024/04/27/14/08/ai-generated-8723825_1280.png" width="400" height="400">
+
+
 ## I'm a passionate developer with a love for technology and coding. I enjoy building web applications that are both functional and user-friendly. My main areas of focus include React, Next.js, and Tailwind CSS.
 
 ### 🚀 Technologies I'm Exploring
