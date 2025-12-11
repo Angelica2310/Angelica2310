@@ -1,6 +1,6 @@
 # Welcome to my GitHub!
 
-<img src="https://png.pngtree.com/png-vector/20241105/ourmid/pngtree-3d-bunny-with-books-on-transparent-background-png-image_14223459.png](https://lftz25oez4aqbxpq.public.blob.vercel-storage.com/image-4rmFUAAO9MesKNjeHYgUfVIdKRbCPE.png](https://sxiucdnqcaudjzuxpsfo.supabase.co/storage/v1/object/public/github-readme-avatar/ChatGPT%20Image%20Dec%2011,%202025,%2008_59_21%20PM.png" width="400" height="400" alt="avatar">
+<img src="https://sxiucdnqcaudjzuxpsfo.supabase.co/storage/v1/object/public/github-readme-avatar/ChatGPT%20Image%20Dec%2011,%202025,%2008_59_21%20PM.png" width="400" height="400" alt="avatar">
 
 
 ## I'm a passionate developer with a love for technology and coding. I enjoy building web applications that are both functional and user-friendly. My main areas of focus include React, Next.js, and Tailwind CSS — and I'm continuously expanding my skills in Vue.js, Azure cloud, and backend development.
