@@ -1,6 +1,6 @@
 # Welcome to my GitHub!
 
-<img src="https://png.pngtree.com/png-vector/20241105/ourmid/pngtree-3d-bunny-with-books-on-transparent-background-png-image_14223459.png" width="400" height="400" alt="3D bunny">
+<img src="https://png.pngtree.com/png-vector/20241105/ourmid/pngtree-3d-bunny-with-books-on-transparent-background-png-image_14223459.png](https://lftz25oez4aqbxpq.public.blob.vercel-storage.com/image-4rmFUAAO9MesKNjeHYgUfVIdKRbCPE.png" width="400" height="400" alt="3D bunny">
 
 
 ## I'm a passionate developer with a love for technology and coding. I enjoy building web applications that are both functional and user-friendly. My main areas of focus include React, Next.js, and Tailwind CSS.
